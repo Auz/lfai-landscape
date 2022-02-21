@@ -1852,6 +1852,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
             url_for_bestpractices: https://github.com/KomputeFoundation/kompute
           - item:
+            name: SKIP
+            homepage_url: https://skiplang.com
+            repo_url: https://github.com/skiplang/skip
+            logo: skip.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+          - item:
             name: Dask
             homepage_url: https://docs.dask.org/en/latest/
             repo_url: https://github.com/dask/dask
