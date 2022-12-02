@@ -841,6 +841,13 @@ landscape:
             twitter:
             crunchbase: https://www.crunchbase.com/organization/feature-labs
           - item:
+            name: GrowthBook
+            homepage_url: https://www.growthbook.io/
+            repo_url: https://github.com/growthbook/growthbook
+            logo: growthbook.svg
+            twitter: https://twitter.com/growth_book
+            crunchbase: https://www.crunchbase.com/organization/growth-book
+          - item:
             name: OpenMLDB
             homepage_url: https://openmldb.ai/
             repo_url: https://github.com/4paradigm/OpenMLDB
